@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://discord.com/users/764582953777889290)
 [![Discord](https://img.shields.io/badge/Discord-gepr-5865F2?style=for-the-badge&logo=discord&logoColor=white)](discord.com/users/764582953777889290)
-[![Email](https://img.shields.io/badge/Email-geprworkout%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geprworkout@gmail.com)
+[![Email](https://img.shields.io/badge/Email-GEPR1011%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:GEPR1011@gmail.com)
 
 </div>
 
@@ -30,7 +30,7 @@ Desenvolvedor Full Stack atuando como dev principal na **NemonicRP**, servidor M
 
 ## 🚀 Projetos em Destaque
 
-### ✦ [NemonicOrbPlugin](https://github.com/geprworkout/NemonicORB)
+### ✦ [NemonicOrbPlugin](https://github.com/GEPR1011/NemonicORB)
 > Sistema completo de modificação de itens para Minecraft Java, inspirado em Path of Exile 2.
 
 - 9 Orbs consumíveis com comportamentos únicos
@@ -49,8 +49,8 @@ Automações e sistemas interativos para comunidades, incluindo sistemas de mode
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geprworkout&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geprworkout&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GEPR1011&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GEPR1011&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
