@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://discord.com/users/764582953777889290)
 [![Discord](https://img.shields.io/badge/Discord-gepr-5865F2?style=for-the-badge&logo=discord&logoColor=white)](discord.com/users/764582953777889290)
-[![Email](https://img.shields.io/badge/Email-GEPR1011%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:GEPR1011@gmail.com)
+[![Email](https://img.shields.io/badge/Email-geprworkout%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:GEPR1011@gmail.com)
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ## Sobre mim
 
-Desenvolvedor Full Stack atuando como dev principal na **NemonicRP**, servidor Minecraft Java de RPG. Especializado em plugins Java para Minecraft e bots para Discord, com foco em sistemas complexos de gameplay inspirados em ARPGs modernos como Path of Exile 2.
+Desenvolvedor Full Stack atuando como dev principal na **NemonicRP**, servidor Minecraft Java de RPG. Especializado em plugins Java para Minecraft e sistemas de automação, com foco em sistemas complexos de gameplay inspirados em ARPGs modernos como Path of Exile 2.
 
 ---
 
